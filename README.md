@@ -1,7 +1,7 @@
 Role Name
 =========
 
-This role create database tables required by WSO2 products on MySQL. 
+This role creates the database tables required by WSO2 products on MySQL. 
 
 Requirements
 ------------
